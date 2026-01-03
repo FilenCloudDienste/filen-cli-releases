@@ -12,4 +12,4 @@ This rewrite aims to improve the Filen CLI in multiple ways:
 - Significantly improved performance, especially startup performance, which is critical for CLI applications (because we're using Rust instead of TypeScript).
 
 
-<!-- v0.2.1 -->
+<!-- v0.2.2 -->
