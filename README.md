@@ -12,7 +12,7 @@ For now, syncing, drive mounting, etc. are available through the managed [Filen 
 > While it aims to fully replace it, it is currently in open beta: Some functionality is still missing, and *there might be bugs*. 
 
 > [!Note]
-> Please **report bugs** on our [issues page at `filen-rs`](https://github.com/FilenCloudDienste/filen-rs/issues) by [including "[CLI]" in the title](https://github.com/FilenCloudDienste/filen-rs/issues/new?title=[CLI]%20)! \
+> Please **report bugs** on our [issues page at `filen-rs`](https://github.com/FilenCloudDienste/filen-rs/issues)! \
 > **Feature requests** can be submitted on [features.filen.io](https://features.filen.io/?tags=cli).
 
 ## Installation and updates
