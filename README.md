@@ -6,12 +6,12 @@ The Filen CLI provides a set of useful tools for interacting with your Filen clo
 Start it without specifying a command to enter interactive mode.
 For now, syncing, drive mounting, etc. are available through the managed [Filen Rclone](https://github.com/FilenCloudDienste/filen-rclone).
 
-> [!Important]
+> [!WARNING]
 > **Public Beta:**
 > This is the Rust rewrite of [`FilenCloudDienste/filen-cli`](https://github.com/FilenCloudDienste/filen-cli), which has been [sunsetted](https://github.com/FilenCloudDienste/filen-cli?tab=readme-ov-file#sunsetting-filen-cli).
 > While it aims to fully replace it, it is currently in open beta: Some functionality is still missing, and *there might be bugs*. 
 
-> [!Note]
+> [!NOTE]
 > Please **report bugs** on our [issues page at `filen-rs`](https://github.com/FilenCloudDienste/filen-rs/issues?q=label%3Acli)! \
 > **Feature requests** can be submitted on [features.filen.io](https://features.filen.io/?tags=cli).
 
@@ -26,4 +26,4 @@ The CLI includes an automatic updater.
 
 You can find documentation from within the CLI using the `help` subcommand and at [docs.filen.io](https://docs.filen.io/docs/cli-rs/readme/).
 
-<!-- v0.2.3 -->
+<!-- v0.2.4 -->
