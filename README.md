@@ -80,4 +80,4 @@ The main differences:
 `filen help migration` covers all of it, including why.
 
 
-<!-- v0.3.0 -->
+<!-- v0.3.1 -->
